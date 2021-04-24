@@ -53,8 +53,8 @@
 <br />
 
 
-[![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniket1004&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Devarshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=devarshi-lab&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket1004&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devarshi-lab&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
