@@ -1,9 +1,9 @@
-### Hi, I'm Devarshi - [Devarshi Gajanan Pimpale][website] 👋
+### Hi, I'm Devarshi - [Devarshi Gajanan Pimpale] 👋
 
 
 
 #### I'm Developer, Self-Learner, Student.
-<!-- **aniket1004/aniket1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- **devarshi-lab/devarshi-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
 
@@ -13,8 +13,6 @@
 - 💬 Ask me about programming.
 ### Connect with me:
 
-[<img align="left" alt="aniket1004.com" width="22px" src="https://raw.githubusercontent.com/TheLogicalNights/TheLogicalNights/main/img/website.png" />][website]
-[<img align="left" alt="aniket1004 | LinkedIn" width="22px" src="https://raw.githubusercontent.com/TheLogicalNights/TheLogicalNights/main/img/linkedIn.png" />][linkedin]
 [<img align="left" alt="aniket1005 | Instagram" width="32px" src="img/instagram.png" />][instagram]
 [<img align="left" alt="aniket1005 | Instagram" width="22px" src="img/twitter.png" />][twitter]
 
