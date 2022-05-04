@@ -13,14 +13,14 @@
 - 💬 Ask me about programming.
 ### Connect with me:
 
-[<img align="left" alt="aniket1005 | Instagram" width="32px" src="img/instagram.png" />][instagram]
-[<img align="left" alt="aniket1005 | Instagram" width="22px" src="img/twitter.png" />][twitter]
+[<img align="left" alt="__.devya.__ | Instagram" width="32px" src="img/instagram.png" />][instagram]
+[<img align="left" alt="PimpaleDevarshi | Instagram" width="22px" src="img/twitter.png" />][twitter]
 
 
 <br/>
 
 
-[instagram]: https://instagram.com/devarshipimpale
+[instagram]: https://instagram.com/__.devya.__
 [twitter]: https://twitter.com/devarshipimpale
 
 
