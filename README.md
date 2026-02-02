@@ -1,52 +1,83 @@
-### Hi, I'm Devarshi - [Devarshi Gajanan Pimpale] 👋
+## Hi, I'm Devarshi 👋  
+### Devarshi Gajanan Pimpale  
 
+🚀 **Full-Stack Angular Developer | 5+ Years Experience**  
 
+I build **scalable, enterprise-grade web & mobile applications** using  
+**Angular, Ionic, ASP.NET Web API, and SQL Server**.
 
-#### I'm Developer, Self-Learner, Student.
-<!-- **devarshi-lab/devarshi-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+---
 
+### 👨‍💻 About Me
+- 🔭 Currently working as a **Software Developer (Angular + .NET)**
+- ⚡ Strong experience in **Angular, Ionic, REST APIs, IIS deployment**
+- 🧠 Passionate about **clean UI architecture & performance optimization**
+- 💬 Ask me about **Angular, TypeScript, APIs, or system design**
+- 📍 Based in India 🇮🇳
 
+---
 
+### 🛠️ Languages & Technologies
 
-- 🔭 I’m currently working on Angular.
-- 🌱 I’m currently learning Angular and Django.
-- 💬 Ask me about programming.
-### Connect with me:
+#### Frontend
+![Angular](https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png)
+![TypeScript](https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png)
+![JavaScript](https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png)
+![HTML5](https://raw.githubusercontent.com/github/explore/main/topics/html/html.png)
+![CSS3](https://raw.githubusercontent.com/github/explore/main/topics/css/css.png)
+![Bootstrap](https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png)
+![PrimeNG](https://img.shields.io/badge/PrimeNG-red?style=flat)
 
-[<img align="left" alt="__.devya.__ | Instagram" width="32px" src="img/instagram.png" />][instagram]
-[<img align="left" alt="PimpaleDevarshi | Instagram" width="22px" src="img/twitter.png" />][twitter]
+#### Backend & Mobile
+![C#](https://img.shields.io/badge/C%23-.NET-blue?style=flat)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-Web_API-blueviolet?style=flat)
+![Ionic](https://raw.githubusercontent.com/github/explore/main/topics/ionic/ionic.png)
+![Capacitor](https://img.shields.io/badge/Capacitor-Mobile-lightgrey?style=flat)
+![Java](https://raw.githubusercontent.com/github/explore/main/topics/java/java.png)
+![Python](https://raw.githubusercontent.com/github/explore/main/topics/python/python.png)
 
+#### Database & DevOps
+![SQL Server](https://img.shields.io/badge/SQL_Server-blue?style=flat)
+![MySQL](https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png)
+![Git](https://raw.githubusercontent.com/github/explore/main/topics/git/git.png)
+![Azure DevOps](https://img.shields.io/badge/Azure-DevOps-blue?style=flat)
+![IIS](https://img.shields.io/badge/IIS-Windows-blue?style=flat)
+![Linux](https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png)
 
-<br/>
+---
 
+### 💼 Work Experience
+**Software Developer — WYSE Biometrics Systems Pvt. Ltd.**  
+📅 *April 2021 – Present*
 
-[instagram]: https://instagram.com/__.devya.__
-[twitter]: https://twitter.com/devarshipimpale
+- Developed enterprise Angular applications
+- Built secure REST APIs using ASP.NET Web API
+- Worked on attendance & access management systems
+- Deployed applications on Windows IIS Server
+- Integrated biometric, QR, RFID & face recognition systems
 
+---
 
-### Languages and tools
+### 📌 Key Projects
+- **ETAM Prime** – Attendance & Leave Management System  
+- **SmartAMS** – PAN-India QR & RFID Access Management  
+- **SmartMuster+** – Mobile attendance using Face, Geo & QR  
+- **SmartVMS, BioSentry, Cara-Master**
 
+**Tech Stack:** Angular · Ionic · C# · SQL Server · Android · iOS
 
-<img align="left" alt="c" width="26px" src="img/c.png" />
-<img align="left" alt="cpp" width="26px" src="img/cpp.png" />
-<img align="left" alt="java" width="26px" src="img/java.png" />
-<img align="left" alt="py" width="26px" src="img/py.png" />
-<img align="left" alt="scala" width="26px" src="img/scala.png">
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="node" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-<img align="left" alt="php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
-<img align="left" alt="angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
-<img align="left" alt="linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
-<img align="left" alt="Git" width="26px" src="img/git.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+---
 
+### 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/devarshi-pimpale-6653831b9)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/devarshi-lab)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://instagram.com/__.devya.__)
 
-<br />
-<br />
-<br />
+---
 
+### 📄 Resume
+👉 **[Download Resume](./Devarshi_Pimpale_Resume.pdf)**
+
+---
+
+⭐ *“Code is not just syntax, it's design, performance & responsibility.”*
