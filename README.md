@@ -58,7 +58,7 @@ I build **scalable, enterprise-grade web & mobile applications** using
 ---
 
 ### 💼 Work Experience
-**Software Developer — WYSE Biometrics Systems Pvt. Ltd.**  
+**Sr. Software Developer — WYSE Biometrics Systems Pvt. Ltd.**  
 📅 *April 2021 – Present*
 
 - Developed enterprise Angular applications
